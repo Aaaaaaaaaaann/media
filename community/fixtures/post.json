@@ -1,0 +1,16 @@
+[
+  {
+      "model": "community.post",
+      "pk": 1,
+      "fields": {
+          "author": 2,
+          "active": true,
+          "published": "2020-12-22T19:32:46.390Z",
+          "updated": "2020-12-23T13:54:45.634Z",
+          "title": "A Scandal In Bohemia",
+          "content": "I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise, but admirably balanced mind.",
+          "rating": 2850795,
+          "views": 8552385
+      }
+  }
+]
